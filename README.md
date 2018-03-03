@@ -1,3 +1,5 @@
+# Warning 51ll3d H4x0r
+
 # Lab 3: Create your Music List
 
 You need to use given repo to create your music list. All exercises and detailed instructions are given in `lab3.pdf` file. All necessary source code is given in `website` folder.
@@ -11,3 +13,4 @@ You have to use PHP dictionary `$_GET["playlist"]` to read the value of  `playli
 - **Student ID**: U1610041
 - **Student Name**: Azizbek Kobilov
 - **Section Number**: #001
+- Done all parts, eazzzy
